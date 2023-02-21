@@ -5,7 +5,7 @@ Feel free to use (:
 
 ## Manage your dotifles 
 
-### Create a dotfiles repositorie
+### Create a dotfiles repository
 
 
 ``` sh
@@ -40,4 +40,12 @@ git push -u origin main
 ```
 
 
+# Deploy your dotfiles in a new device
 
+**coming soon**
+
+
+### Project inspiration
+  - [Meleu Gitgub](https://github.com/meleu/.dotfiles)
+  - [Meleu page](https://meleu.sh/dotfiles/)
+ 
